@@ -1,0 +1,14 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+imbalanced-learn
+nltk
+spacy
+gensim
+wordcloud
+tensorflow
+iterative-stratification
